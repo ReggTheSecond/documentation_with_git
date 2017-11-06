@@ -1,0 +1,3 @@
+[submodule "example_docs"]
+	path = example_docs
+	url = https://github.com/ReggTheSecond/example_docs.git
